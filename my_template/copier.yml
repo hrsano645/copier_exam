@@ -1,0 +1,7 @@
+project_number:
+  type: str
+  help: プロジェクト番号は？
+
+project_date:
+  type: str
+  help: プロジェクトの依頼日時は？（yyyy-mm-dd表記で）
